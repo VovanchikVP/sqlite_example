@@ -97,6 +97,6 @@ def get_data():
 
 
 if __name__ == '__main__':
-    # create_db()
-    # insert_data()
+    create_db()
+    insert_data()
     get_data()
